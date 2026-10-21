@@ -1,0 +1,32 @@
+﻿DELIVERY CITY 3D — FERTIGES SPIEL UND UNITY-PROJEKT
+Version 2.0.0
+
+SO SPIELST DU
+1. Rechtsklick auf DeliveryCity3D-Komplett.zip und "Alle extrahieren" wählen.
+2. Den entpackten Ordner öffnen.
+3. Auf "SPIEL STARTEN.cmd" doppelklicken.
+4. Stadt wählen, "Schicht starten", dann LAGER und ein Lieferziel anklicken.
+
+F11: Vollbild/Fenster. Esc: Pause.
+Little Oak: 1 Wagen, 6 Pakete, 4 Minuten.
+Harbor Side: 2 Wagen, 10 Pakete, 4 Minuten.
+Unity oder Visual Studio werden zum Spielen nicht benötigt.
+
+SO ÖFFNET IHR DEN CODE UND DIE SZENEN
+In Unity Hub den Ordner DeliveryCity3D-Fertig als vorhandenes Projekt hinzufügen.
+Unity-Version: 6000.6.5f1.
+Szene: Assets/Scenes/LittleOakGame.unity.
+Die vier C#-Spielskripte liegen unter Assets/Scripts.
+Die deutsche Anleitung liegt im Unterordner Anleitung.
+
+SO WÄHLST DU DIE DATEI BEIM HOCHLADEN
+Im Upload-Fenster "Downloads" öffnen und DeliveryCity3D-Komplett.zip auswählen.
+Diese ZIP enthält Windows-Spiel, vollständiges Unity-Projekt und Anleitung.
+Die passende Abgabeplattform und deren Größenlimit legt euer Kurs fest.
+
+INHALT
+DeliveryCity3D-Spiel = ausführbare Windows-Version mit allen benötigten Dateien
+DeliveryCity3D-Fertig = bearbeitbares Unity-Projekt mit Anleitung und Vorschau
+SPIEL STARTEN.cmd = Startdatei für das entpackte Spiel
+
+Die Ordnerstruktur beim Weitergeben vollständig beibehalten.

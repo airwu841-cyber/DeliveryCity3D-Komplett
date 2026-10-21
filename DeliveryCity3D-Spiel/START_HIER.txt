@@ -1,0 +1,20 @@
+DELIVERY CITY 3D — VERSION 2.0
+
+1. Diesen gesamten Ordner behalten bzw. die ZIP-Datei vollständig entpacken.
+2. Auf "SPIEL STARTEN.cmd" doppelklicken: Das Spiel öffnet sich im Vollbild.
+   Alternativ DeliveryCity3D.exe starten und F11 drücken.
+3. Stadt auswählen und "Schicht starten" anklicken.
+4. Das orange LAGER in der Stadt anklicken.
+5. Ein gelb markiertes Gebäude oder sein Ziel in der linken Liste anklicken.
+6. Der Wagen lädt, liefert und fährt zurück. Für jeden Auftrag wieder bei 4 beginnen.
+
+Little Oak: ein Wagen, sechs Pakete, vier Minuten.
+Harbor Side: zwei Wagen, zehn Pakete, vier Minuten.
+
+F11: Vollbild/Fenster. Esc: Pause, Fortsetzen, Neustart oder Stadtauswahl.
+"Beenden" im Hauptmenü schließt das Spiel.
+Unity und Visual Studio müssen zum Spielen nicht geöffnet sein.
+Die EXE benötigt die mitgelieferten Datenordner und DLL-Dateien.
+
+Die Schrift Inter wird unter der SIL Open Font License geliefert.
+Der Lizenztext liegt unter Lizenzen/Inter-OFL.txt.
